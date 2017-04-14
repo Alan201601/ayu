@@ -11,7 +11,7 @@ ui:
     bg: FFFFFF
     shadow: '999999'
     path_fg: B0BEC5
-    row_bg: F2F2F2
+    row_bg: EFEFEF
 
   folder:
     normal: '828C99'
@@ -26,7 +26,7 @@ ui:
 syntax:
   error: FF3333
   line_hg: F2F2F2
-  gutterFg: D9D8D7
+  gutter: D9D8D7
   selection: F0EEE4
   stack_guide: DEDDDC
   active_guide: B3B2B1

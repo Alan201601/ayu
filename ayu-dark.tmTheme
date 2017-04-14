@@ -30,11 +30,11 @@
 				<key>foreground</key>
 				<string>#E6E1CF</string>
 				<key>guide</key>
-				<string>#2D3640</string>
+				<string>#35404C</string>
 				<key>gutter</key>
 				<string>#0F1419</string>
 				<key>gutterForeground</key>
-				<string>#2D3640</string>
+				<string>#35404C</string>
 				<key>inactiveBackground</key>
 				<string>#0F1419</string>
 				<key>inactiveSelection</key>
@@ -60,7 +60,7 @@ b, strong {
   font-weight: normal;
 }
 a {
-  color: rgba(54, 163, 217, .7);
+  color: rgba(80, 180, 230, .7);
   line-height: 16px;
 }
 .type {
@@ -140,7 +140,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#36A3D9</string>
+				<string>#50B4E6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -186,7 +186,7 @@ a {
 				<key>fontStyle</key>
 				<string>normal</string>
 				<key>foreground</key>
-				<string>#B8CC52</string>
+				<string>#C2D94C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -197,7 +197,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#36A3D9</string>
+				<string>#50B4E6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -208,7 +208,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#36A3D9</string>
+				<string>#50B4E6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -221,7 +221,7 @@ a {
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#36A3D9</string>
+				<string>#50B4E6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -256,7 +256,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#36A3D990</string>
+				<string>#50B4E690</string>
 			</dict>
 		</dict>
 		<dict>
@@ -278,7 +278,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B8CC52</string>
+				<string>#C2D94C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -289,7 +289,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#36A3D9</string>
+				<string>#50B4E6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -344,7 +344,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B8CC52</string>
+				<string>#C2D94C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -370,7 +370,7 @@ a {
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#36A3D9</string>
+				<string>#50B4E6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -483,7 +483,7 @@ a {
 				<key>background</key>
 				<string>#3cadd71a</string>
 				<key>foreground</key>
-				<string>#36A3D9</string>
+				<string>#50B4E6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -505,7 +505,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#36A3D9</string>
+				<string>#50B4E6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -527,7 +527,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B8CC52</string>
+				<string>#C2D94C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -618,7 +618,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#36A3D9</string>
+				<string>#50B4E6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -629,7 +629,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#36A3D9</string>
+				<string>#50B4E6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -640,7 +640,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#36A3D9</string>
+				<string>#50B4E6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -651,7 +651,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#36A3D9</string>
+				<string>#50B4E6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -662,7 +662,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#36A3D9</string>
+				<string>#50B4E6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -673,7 +673,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#36A3D9</string>
+				<string>#50B4E6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -684,7 +684,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#36A3D9</string>
+				<string>#50B4E6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -695,7 +695,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#36A3D9</string>
+				<string>#50B4E6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -706,7 +706,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#36A3D9</string>
+				<string>#50B4E6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -717,7 +717,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#36A3D9</string>
+				<string>#50B4E6</string>
 				<key>foreground</key>
 				<string>#FFFFFF</string>
 			</dict>
@@ -730,7 +730,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#B8CC52</string>
+				<string>#C2D94C</string>
 				<key>foreground</key>
 				<string>#FFFFFF</string>
 			</dict>
@@ -769,7 +769,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#36A3D9</string>
+				<string>#50B4E6</string>
 			</dict>
 		</dict>
 		<dict>

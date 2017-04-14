@@ -25,7 +25,7 @@ ui:
 
 syntax:
   error: FF3333
-  gutterFg: 3D4752
+  gutter: 3D4752
   line_hg: '242B38'
   selection: '343F4C'
   stack_guide: '39434D'

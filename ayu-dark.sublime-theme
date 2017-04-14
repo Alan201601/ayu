@@ -61,7 +61,7 @@
     "layer0.texture": "ayu/assets/unfold.png",
     "layer0.opacity": 1.0,
     "layer0.inner_margin": 0,
-    "layer0.tint": [62, 75, 89],
+    "layer0.tint": [81, 92, 102],
     "content_margin": [8, 6, 8, 6]
   },
 
@@ -98,7 +98,7 @@
 
   {
     "class": "auto_complete_label",
-    "fg": [62, 75, 89],
+    "fg": [81, 92, 102],
     "match_fg": [242, 151, 24],
     "selected_fg": [230, 225, 207],
     "selected_match_fg": [242, 151, 24]
@@ -131,9 +131,9 @@
 
   {
     "class": "tool_tip_label_control",
-    "color": [62, 75, 89],
+    "color": [81, 92, 102],
     // "font.face": "Roboto mono",
-    "font.size": 12
+    "font.size": 13
   },
   {
     "class": "tool_tip_label_control",
@@ -233,7 +233,7 @@
 
   {
     "class": "quick_panel_label",
-    "fg": [62, 75, 89],
+    "fg": [81, 92, 102],
     "match_fg": [242, 151, 24],
     "selected_fg": [230, 225, 207],
     "selected_match_fg": [242, 151, 24]
@@ -244,7 +244,7 @@
   {
     "class": "quick_panel_label",
     "parents": [{"class": "overlay_control"}],
-    "fg": [62, 75, 89],
+    "fg": [81, 92, 102],
     "match_fg": [242, 151, 24],
     "selected_fg": [230, 225, 207],
     "selected_match_fg": [242, 151, 24]
@@ -256,7 +256,7 @@
     "class": "quick_panel_path_label",
     "fg": [66, 80, 94],
     "match_fg": [230, 225, 207],
-    "selected_fg": [62, 75, 89],
+    "selected_fg": [81, 92, 102],
     "selected_match_fg": [230, 225, 207]
   },
 
@@ -264,8 +264,8 @@
 
   {
     "class": "quick_panel_score_label",
-    "fg": [62, 75, 89],
-    "selected_fg": [62, 75, 89]
+    "fg": [81, 92, 102],
+    "selected_fg": [81, 92, 102]
   },
 
 
@@ -297,7 +297,7 @@
     "content_margin": [0, 0, 0, 0],
     "layer1.opacity": 0.3,
     "layer1.texture": "ayu/assets/separator-bottom.png",
-    "layer1.tint": [62, 75, 89],
+    "layer1.tint": [81, 92, 102],
     "layer1.inner_margin": [1, 0, 1, 2]
   },
   {
@@ -330,12 +330,12 @@
     "settings": ["ui_separator"],
 
     "layer1.texture": "ayu/assets/separator-right.png",
-    "layer1.tint": [62, 75, 89],
+    "layer1.tint": [81, 92, 102],
     "layer1.inner_margin": [0, 1, 2, 1],
     "layer1.opacity": 0.3,
 
     "layer3.texture": "ayu/assets/separator-bottom.png",
-    "layer3.tint": [62, 75, 89],
+    "layer3.tint": [81, 92, 102],
     "layer3.inner_margin": [1, 0, 1, 2],
     "layer3.opacity": 0.3
   },
@@ -372,7 +372,7 @@
   {
     "class": "tab_label",
     "fg": [15, 20, 25, 0],
-    "shadow_color": [62, 75, 89],
+    "shadow_color": [81, 92, 102],
     "shadow_offset": [0, -1],
     "font.italic": false,
     "font.bold": false,
@@ -393,7 +393,7 @@
   },
   {
     "class": "tab_label",
-    "fg": [62, 75, 89],
+    "fg": [81, 92, 102],
     "settings": ["ui_fix_tab_labels"],
     "shadow_color": [15, 20, 25, 0],
     "shadow_offset": [0, 0]
@@ -436,12 +436,12 @@
 
   // Close Icon
     "layer0.texture": "ayu/assets/close.png",
-    "layer0.tint": [62, 75, 89],
+    "layer0.tint": [81, 92, 102],
     "layer0.opacity": 1.0,
 
   // Dirty Icon
     "layer1.texture": "ayu/assets/dirty.png",
-    "layer1.tint": [62, 75, 89],
+    "layer1.tint": [81, 92, 102],
     "layer1.opacity": 0,
   },
 
@@ -522,7 +522,7 @@
     "class": "scroll_tabs_right_button",
     "settings": ["ui_separator"],
     "layer2.texture": "ayu/assets/separator-right.png",
-    "layer2.tint": [62, 75, 89],
+    "layer2.tint": [81, 92, 102],
     "layer2.opacity": 0.3,
     "layer2.inner_margin" : [0, 1, 2, 1]
   },
@@ -563,7 +563,7 @@
     "class": "sidebar_container",
     "settings": ["ui_separator"],
     "layer1.texture": "ayu/assets/separator-right.png",
-    "layer1.tint": [62, 75, 89],
+    "layer1.tint": [81, 92, 102],
     "layer1.inner_margin": [0, 1, 2, 1],
     "layer1.opacity": 0.3
   },
@@ -580,7 +580,7 @@
 
   {
     "class": "sidebar_heading",
-    "color": [62, 75, 89],
+    "color": [81, 92, 102],
     // "font.face": "Roboto mono",
     "font.bold": true,
     "font.size": 11
@@ -594,32 +594,21 @@
   {
     "class": "tree_row",
     "layer1.texture": "ayu/assets/tree-highlight.png",
-    "layer1.opacity": { "target": 0.0, "speed": 5.0, "interpolation": "smoothstep" },
-    "layer1.tint": [242, 151, 24],
-    "layer1.inner_margin": [5, 0, 0, 3],
-    "layer0.tint": [25, 31, 38],
-    "layer0.opacity": 0
+    "layer1.tint": [25, 31, 38],
+    "layer1.inner_margin": [8, 4, 8, 4],
+    "layer1.opacity": 0
   },
 
   {
     "class": "tree_row",
     "attributes": ["selected"],
-    "layer1.opacity": { "target": 1.0, "speed": 5.0, "interpolation": "smoothstep" }
-  },
-
-  {
-    "class": "tree_row",
-    "attributes": ["selected"],
-    "settings": ["ui_sidebar_highlight_row"],
-    "layer0.opacity": 1
+    "layer1.opacity": 1
   },
 
   {
     "class": "sidebar_label",
-    "color": [62, 75, 89],
-    "shadow_color": [0, 0, 0],
-    "shadow_offset": [0, 0],
-    // "font.face": "Roboto",
+    "color": [81, 92, 102],
+    // "font.face": "Roboto mono",
     "font.size": 12
   },
   {
@@ -637,15 +626,13 @@
   {
     "class": "sidebar_label",
     "parents": [{"class": "tree_row","attributes": ["selected"]}],
-    "color": [230, 225, 207],
-    "shadow_color": [0, 0, 0],
-    "shadow_offset": [0, 0]
+    "color": [230, 225, 207]
   },
 
   {
     "class": "sidebar_label",
     "parents": [{"class": "tree_row","attributes": ["expandable"]}],
-    "color": [62, 75, 89],
+    "color": [81, 92, 102],
     "font.bold": false
   },
 
@@ -804,7 +791,7 @@
     "layer0.opacity": 1.0,
 
     "layer1.texture": "ayu/assets/folder-symlink.png",
-    "layer1.tint": [62, 75, 89],
+    "layer1.tint": [81, 92, 102],
     "layer1.opacity": 0.3
   },
 
@@ -836,7 +823,7 @@
     "layer0.texture": "ayu/assets/close.png",
     "layer0.opacity": 0,
     "layer0.inner_margin": [0, 0],
-    "layer0.tint": [62, 75, 89]
+    "layer0.tint": [81, 92, 102]
   },
 
 
@@ -853,7 +840,7 @@
     "class": "close_button",
     "attributes": ["dirty"],
     "layer0.texture": "ayu/assets/dirty.png",
-    "layer0.tint": [62, 75, 89],
+    "layer0.tint": [81, 92, 102],
     "layer0.opacity": 1.0
   },
 
@@ -874,7 +861,7 @@
     "layer0.opacity": 1.0,
 
     "layer1.texture": "ayu/assets/scrollbar-vertical-wide.png",
-    "layer1.tint": [62, 75, 89],
+    "layer1.tint": [81, 92, 102],
     "layer1.opacity": 0.1,
     "layer1.inner_margin": [0, 10],
     "blur": false
@@ -900,7 +887,7 @@
   {
     "class": "puck_control",
     "layer0.texture": "ayu/assets/scrollbar-vertical-wide.png",
-    "layer0.tint": [62, 75, 89],
+    "layer0.tint": [81, 92, 102],
     "layer0.opacity": 0.3,
     "layer0.inner_margin": [0, 10],
     "content_margin": [6, 12],
@@ -1015,7 +1002,7 @@
 
   {
     "class": "label_control",
-    "color": [62, 75, 89],
+    "color": [81, 92, 102],
     "shadow_color": [0, 0, 0, 0],
     "shadow_offset": [0, 0],
     "font.bold": false,
@@ -1033,7 +1020,7 @@
   {
     "class": "label_control",
     "parents": [{"class": "status_bar"}],
-    "color": [62, 75, 89],
+    "color": [81, 92, 102],
     "font.bold": false
   },
 
@@ -1068,7 +1055,7 @@
   {
     "class": "panel_button_control",
     "layer0.texture": "ayu/assets/switch-panel.png",
-    "layer0.tint": [62, 75, 89],
+    "layer0.tint": [81, 92, 102],
     "layer0.opacity": 1.0
   },
 
@@ -1095,7 +1082,7 @@
     "settings": ["ui_separator"],
     "layer0.tint": [20, 25, 31],
     "layer1.texture": "ayu/assets/separator-top.png",
-    "layer1.tint": [62, 75, 89],
+    "layer1.tint": [81, 92, 102],
     "layer1.inner_margin": [1, 2, 1, 0],
     "layer1.opacity": 0.3
   },
@@ -1106,7 +1093,7 @@
     "class": "panel_close_button",
     "layer0.texture": "ayu/assets/close.png",
     "layer0.opacity": 1.0,
-    "layer0.tint": [62, 75, 89],
+    "layer0.tint": [81, 92, 102],
     "content_margin": [0, 0] // 8,8 to show
   },
   // !!!
@@ -1128,7 +1115,7 @@
     "layer1.texture": "ayu/assets/input-border.png",
     "layer1.opacity": 0.3,
     "layer1.inner_margin": [10, 8],
-    "layer1.tint": [62, 75, 89],
+    "layer1.tint": [81, 92, 102],
     "content_margin": [10, 7, 10, 5]
   },
 
@@ -1187,7 +1174,7 @@
   {
     "class": "label_control",
     "parents": [{"class": "button_control"}],
-    "color":  [62, 75, 89]
+    "color":  [81, 92, 102]
   },
 
   {
@@ -1215,7 +1202,7 @@
   {
     "class": "icon_regex",
     "layer0.texture": "ayu/assets/regex.png",
-    "layer0.tint": [62, 75, 89],
+    "layer0.tint": [81, 92, 102],
     "layer0.opacity": 1.0,
     "content_margin": [12, 12]
   },
@@ -1231,7 +1218,7 @@
   {
     "class": "icon_case",
     "layer0.texture": "ayu/assets/matchcase.png",
-    "layer0.tint": [62, 75, 89],
+    "layer0.tint": [81, 92, 102],
     "layer0.opacity": 1.0,
     "content_margin": [12, 12]
   },
@@ -1247,7 +1234,7 @@
   {
     "class": "icon_whole_word",
     "layer0.texture": "ayu/assets/word.png",
-    "layer0.tint": [62, 75, 89],
+    "layer0.tint": [81, 92, 102],
     "layer0.opacity": 1.0,
     "content_margin": [12, 12]
   },
@@ -1264,7 +1251,7 @@
   {
     "class": "icon_wrap",
     "layer0.texture": "ayu/assets/wrap.png",
-    "layer0.tint": [62, 75, 89],
+    "layer0.tint": [81, 92, 102],
     "layer0.opacity": 1.0,
     "content_margin": [12, 12]
   },
@@ -1280,7 +1267,7 @@
   {
     "class": "icon_in_selection",
     "layer0.texture": "ayu/assets/inselection.png",
-    "layer0.tint": [62, 75, 89],
+    "layer0.tint": [81, 92, 102],
     "layer0.opacity": 1.0,
     "content_margin": [12, 12]
   },
@@ -1296,7 +1283,7 @@
   {
     "class": "icon_highlight",
     "layer0.texture": "ayu/assets/highlight.png",
-    "layer0.tint": [62, 75, 89],
+    "layer0.tint": [81, 92, 102],
     "layer0.opacity": 1.0,
     "content_margin": [12, 12]
   },
@@ -1312,7 +1299,7 @@
   {
     "class": "icon_preserve_case",
     "layer0.texture": "ayu/assets/replace-preserve-case.png",
-    "layer0.tint": [62, 75, 89],
+    "layer0.tint": [81, 92, 102],
     "layer0.opacity": 1.0,
     "content_margin": [12, 12]
   },
@@ -1328,7 +1315,7 @@
   {
     "class": "icon_context",
     "layer0.texture": "ayu/assets/context.png",
-    "layer0.tint": [62, 75, 89],
+    "layer0.tint": [81, 92, 102],
     "layer0.opacity": 1.0,
     "content_margin": [12, 12]
   },
@@ -1345,7 +1332,7 @@
   {
     "class": "icon_use_buffer",
     "layer0.texture": "ayu/assets/buffer.png",
-    "layer0.tint": [62, 75, 89],
+    "layer0.tint": [81, 92, 102],
     "layer0.opacity": 1.0,
     "content_margin": [12, 12]
   },
@@ -1361,7 +1348,7 @@
   {
     "class": "icon_reverse",
     "layer0.texture": "ayu/assets/reverse.png",
-    "layer0.tint": [62, 75, 89],
+    "layer0.tint": [81, 92, 102],
     "layer0.opacity": 1.0,
     "content_margin": [12, 12]
   },
@@ -1377,7 +1364,7 @@
   {
     "class": "title_bar",
     "bg": [15, 20, 25],
-    "fg": [230, 225, 207]
+    "fg": [81, 92, 102]
   },
 
 
